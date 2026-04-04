@@ -19,7 +19,7 @@
 
 • **Lighting**
 - Unlit slider
-More to come..
+- More to come..
 
 • **Normal mapping & Emission**
 - Supports normal mapping and Emission.
