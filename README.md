@@ -9,6 +9,7 @@
 - Supports color/texture input.
 - Supports color adjustments: Brightness, Gamma, Hue, and Saturation.
 - Supports color tinting with color adjustments.
+- Supports color tint masking.
 
 • **Shadow shading**
 - Supports triple-layer shadow shading for cartoony or realistic.
@@ -29,14 +30,14 @@
 • **Matcap shading**
 - Supports two matcaps shading.
 - Supports masking for both layers.
-- Supports blending modes
+- Supports blending modes (Add, Screen, Multiply).
 - Intensity sliders for both layers.
 - Normal map adaption.
 
 • **Detailing**
 - Supports two detailing textures.
 - Supports masking for both layers.
-- Supports blending modes.
+- Supports blending modes (Add, Screen, Multiply).
 - Supports position and rotation for placing the detail texture.
 
 • **Extras**
