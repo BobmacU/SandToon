@@ -7,13 +7,19 @@
 # Features
 • **Color/Texture**
 - Supports color/texture input.
-- Supports color tinting.
 - Supports color adjustments: Brightness, Gamma, Hue, and Saturation.
+- Supports color tinting with color adjustments.
 
 • **Shadow shading**
 - Supports triple-layer shadow shading for cartoony or realistic.
 - Supports masking for all three layers.
-- Supports adjustments: Blur & Border (for now)
+- Supports adjustments: Blur, Border, Range and Boundary.
+- Normal map adaption.
+- Ambient Lighting support.
+
+• **Lighting**
+- Unlit slider
+More to come..
 
 • **Normal mapping & Emission**
 - Supports normal mapping and Emission.
@@ -23,49 +29,27 @@
 • **Matcap shading**
 - Supports two matcaps shading.
 - Supports masking for both layers.
+- Supports blending modes
 - Intensity sliders for both layers.
+- Normal map adaption.
 
 • **Detailing**
 - Supports two detailing textures.
 - Supports masking for both layers.
+- Supports blending modes.
+- Supports position and rotation for placing the detail texture.
 
 • **Extras**
 - Supports four filterings.
 - Supports backface rendering.
 - Supports Fog.
-- Supports Indirect and Direct lighting (kinda..)
+- Supports direct lighting. Indirect needs testing.
 
 # Documentation
 **Coming Soon**
 
 # To-Do
-• **Color/Texture**
-- Tint masking support.
-- Separated color adjustments for tint texture.
-
-• **Shadow Shading**
-- Intensity and flattening masking support. Only Intensity is supported yet.
-- Range support.
-- AO mask support with intensity slider. maybe Min/Max too.
-- Normal map adaptation support.
-- Boundary color and width support.
-- Contrast adjustment support
-- Ambient light effectiveness support
-
-• **Normal Mapping & Emission**
-- 2nd Normal mapping support for blending or masking.
-- Masking support for both layers.
-
-• **Matcap Shading**
-- Some math correction for better results.
-- Lighting blending support for matcaps.
-- Normal map adaption support.
-- Blending modes (Add, Screen, and Multiply) as a slider. No fancy UI support for the material editor yet..
-
-• **Detailing**
-- Rename to **2nd/3rd detailing** or something better.
-- Blending modes like matcap shading.
-- Tiling X/Y, Scaling, and Rotation support.
+• **2nd/3rd textures**
 - UV modes? (Not sure how to implement that though.)
 
 • **Other features**
@@ -79,4 +63,4 @@
 ..and many more!
 
 # Known issues
-- Output is too bright. Should be an easy fix.
+- Nothing yet.
