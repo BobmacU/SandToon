@@ -31,7 +31,7 @@
 - Supports four filterings.
 - Supports backface rendering.
 - Supports Fog.
-- Supports Indirect and Direct lighting with an intensity slider.
+- Supports Indirect and Direct lighting (kinda..)
 
 # Documentation
 **Coming Soon**
@@ -40,3 +40,38 @@
 • **Color/Texture**
 - Tint masking support.
 - Separated color adjustments for tint texture.
+
+• **Shadow Shading**
+- Intensity and flattening masking support. Only Intensity is supported yet.
+- Range support.
+- AO mask support with intensity slider. maybe Min/Max too.
+- Normal map adaptation support.
+- Boundary color and width support.
+- Contrast adjustment support
+- Ambient light effectiveness support
+
+• **Normal Mapping & Emission**
+- 2nd Normal mapping support for blending or masking.
+- Masking support for both layers.
+
+• **Matcap Shading**
+- Some math correction for better results.
+- Lighting blending support for matcaps.
+- Normal map adaption support.
+- Blending modes (Add, Screen, and Multiply) as a slider. No fancy UI support for the material editor yet..
+
+• **Detailing**
+- Rename to **2nd/3rd detailing** or something better.
+- Blending modes like matcap shading.
+- Tiling X/Y, Scaling, and Rotation support.
+- UV modes? (Not sure how to implement that though.)
+
+• **Other features**
+- Rimlighting support.
+- Backlit support.
+- Parallax Occlusion Support.
+- PBR/Gloss and Reflections support.
+- Outlines support.
+- Fur shader support.
+- Stencil support.
+..and many more!
