@@ -49,17 +49,23 @@
 
 ## Features
 
-- **Stylized toon & semi-realistic shading**
+- **Stylized toon shading**
 - **Fully environment lighting adaption**
 - **Direct + Indirect lighting support**
-- **Rendering modes: Opaque, Cutout and Transparent**
 - **Extra texture slots for flexible control**
 - **Masking support for full-control**
 - **Flexible UV tiling, offset, rotation, and animation**
 - **Matcaps, Rim lighting, Back-lighting and more stylized features**
+- **And many more features awaits for you to try out!**
+
+## Coming Soon
 - **Full-PBR support with many extras**
 - **Special effects: Emission, Glitter, Refraction, Fancy Fade in/out etc.**
-- **And many more features awaits for you to try out!**
+- **Rendering modes: Opaque, Cutout and Transparent**
+- **Semi-realistic shading**
+- **Fur Shader support**
+- **Parallex Occlusion Support**
+- **Many more planned!**
 
 ## License
 This project is licensed under the **MIT License**.
