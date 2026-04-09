@@ -21,7 +21,7 @@
 
 ---
 
-## Overview
+# Overview
 
 **S&Toon Shader** is a stylized, feature-rich toon shader for the **S&box game engine**, inspired by **LilToon**. It focuses on both **toon** and **semi-realistic** shading, offering a wide range of customization options while remaining performant and easy to use. It supports many features, making it suitable for both real-time use and high-quality screenshot rendering. Designed with artists in mind, it provides intuitive controls to quickly achieve polished, visually appealing results in a few seconds!
 
