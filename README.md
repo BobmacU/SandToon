@@ -36,9 +36,9 @@
 </div>
 
 # Installation.
-## [Direct-use]
-- Directly search **SandToon** in the Material Editor's shaders.
-- Wait a bit and the shader will be installed and start using it!
+## [Cloud-usage]
+- Search **S&Toon** in the Material Editor's shaders.
+- When found, click it and wait a bit and the shader will be installed and start using it.
 
 ## [Manual-Package]
 - Download the [latest release](https://github.com/BobmacU/SandToon/releases).
@@ -66,6 +66,18 @@
 - **Fur Shader support**
 - **Parallex Occlusion Support**
 - **Many more planned!**
+
+## Versions
+This shader has many different versions for many use cases. You can select the shader you need in the material editor’s shader slot. For cloud usage. The variations will also show up there.
+
+- **S&Toon** : Default version for most use cases. Includes all the features.
+- **S&Toon_transparent** : Same as default shader but rendered for **transparent** materials. Have two renderings (Transparent and TransparentZwrite). Includes slots and settings for 
+- **S&Toon_Cutout** : Same as **Alpha mask** usage.default shader but rendered for **Cutout** materials. Includes slots and settings for **Alpha masks** usage and **Cutout**.
+- **S&Toon_Simple** : Simplified version of default version without any extra slots and heavy features.
+- **S&Toon_Refract** [Planned but not sure]: Modified version of simple version with refractions.
+- **S&Toon Fur** : Modified version of simple version with Fur shader.
+
+There can be more or less depending on what we want to do. 
 
 ## License
 This project is licensed under the **MIT License**.
