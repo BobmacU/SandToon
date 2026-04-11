@@ -72,7 +72,7 @@ This shader has many different versions for many use cases. You can select the s
 
 - **S&Toon** : Default version for most use cases. Includes all the features.
 - **S&Toon_transparent** : Same as default shader but rendered for **transparent** materials. Have two renderings (Transparent and TransparentZwrite). Includes slots and settings for 
-- **S&Toon_Cutout** : Same as **Alpha mask** usage.default shader but rendered for **Cutout** materials. Includes slots and settings for **Alpha masks** usage and **Cutout**.
+- **S&Toon_Cutout** : Same as **Translucent**. Default shader but rendered for **Cutout** materials. Includes slots and settings for **Alpha masks** usage and **Cutout**.
 - **S&Toon_Simple** : Simplified version of default version without any extra slots and heavy features.
 - **S&Toon_Refract** [Planned but not sure]: Modified version of simple version with refractions.
 - **S&Toon Fur** : Modified version of simple version with Fur shader.
