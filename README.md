@@ -1,23 +1,11 @@
 <p align="center">
-  <img width="512" height="512" alt="IMG_2591" src="https://github.com/user-attachments/assets/032a8db3-39bd-441a-ab20-45e88cfc353d" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/status-WIP-red?style=for-the-badge" />
-  <img src="https://img.shields.io/github/license/BobmacU/SandToon?style=for-the-badge&color=blue" />
-  <img src="https://img.shields.io/badge/platform-S&box-blue?style=for-the-badge" />
-  <p align="center">
-  <a href="https://github.com/BobmacU/SandToon/releases">
-  <a href="https://discord.gg/D2RKbxEmtR"><img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Documentation-S&Toon%20-blue?style=for-the-badge" /></a>
-  </a>
-</p>
+  <img width="512" height="256" alt="Bobico Shader Logo" src="https://github.com/user-attachments/assets/9b696b39-18ef-4a25-aed0-dc654811a60c" />
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/github/v/release/BobmacU/SandToon?style=for-the-badge&label=RELEASE&color=ff69b4" />
-    <img src="https://img.shields.io/github/downloads/BobmacU/SandToon/total?style=for-the-badge&label=DOWNLOADS&color=white" />
-    <img src="https://img.shields.io/badge/version-v1.0.0-blue?style=for-the-badge" />
+# Bo-Bi-Co Shaders
 </p>
+
 
 ---
 
