@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://github.com/BoBiCo-Lab/BoBiCo-Shaders/releases/latest">📦 <strong>Latest Release</strong></a>
   •
-  <a href="https://bobico-shader-docs.vercel.app/">📘 <strong>Documentation</strong></a>
+  <a href="https://bobico-lab.vercel.app/docs/bobico-shader/general-info/introduction">📘 <strong>Documentation</strong></a>
   •
   <a href="https://sbox.game/bobicolab/bobicoshader">🟦 <strong>S&box Workshop</strong></a>
   •
